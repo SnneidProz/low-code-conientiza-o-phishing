@@ -1,0 +1,5 @@
+{
+  "name": "SorteioProzeducacao",
+  "description": "Uma landing page simulando um sorteio de iPhone 16 para estudantes da Proz, com o objetivo educativo de alertar sobre riscos de engenharia social e proteção de dados.",
+  "requestFramePermissions": []
+}
