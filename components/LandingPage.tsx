@@ -105,7 +105,7 @@ export const LandingPage: React.FC<LandingPageProps> = ({ onSubmit }) => {
             <div>
               <span className="inline-flex items-center gap-2 bg-proz-orange text-white text-xs font-black px-4 py-1.5 rounded-full uppercase tracking-wider transform -rotate-2 shadow-lg mb-4">
                 <Sparkles className="w-3 h-3 text-yellow-200" />
-                Especial Fim de Ano Proz Educação
+                Exclusivo para Alunos Proz
               </span>
               <h1 className="text-3xl md:text-5xl lg:text-6xl font-extrabold leading-tight tracking-tight mb-4">
                 A ferramenta definitiva para <br/>
